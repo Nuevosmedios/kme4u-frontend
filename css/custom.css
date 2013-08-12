@@ -1,0 +1,28 @@
+body { font-weight: 200; padding-top: 51px; }
+strong, b { font-weight:400; }
+h1, h2, h3, h4, h5 { font-weight:400; }
+
+/*Home*/
+
+/*Banner*/
+#banner { margin-bottom: 10px; }
+/*Banner end*/
+
+/*Courses Tabs*/
+ul#courses-tabs { text-align:center; }
+ul#courses-tabs li { float:none; display:inline-block; }
+ul#courses-tabs li a { border-radius: 0; -moz-border-radius: 0; -webkit-border-radius: 0; }
+#courses-content-tabs { margin-top: 20px; }
+#courses-content-tabs .thumbnail h3 { margin:0; }
+/*Courses Tabs end*/
+
+/*Home end*/
+
+/*Login*/
+#login-form { margin-top: 40px; }
+/*Login end*/
+
+/*Bootstrap override*/
+.thumbnail { border-radius: 0; -moz-border-radius: 0; -webkit-border-radius: 0; margin-bottom: 10px; }
+
+/**/
